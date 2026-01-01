@@ -1,4 +1,4 @@
-import { ScreenSizeDialog } from "@/components/ScreenSize";
+// import { ScreenSizeDialog } from "@/components/ScreenSize";
 import { Button } from "@/components/ui/button";
 import { Keyboard, Swords } from "lucide-react";
 import Link from "next/link";
@@ -41,7 +41,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <ScreenSizeDialog />
+          {/* <ScreenSizeDialog /> */}
         </section>
       </main>
     </>

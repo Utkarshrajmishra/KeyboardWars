@@ -17,12 +17,12 @@ const Links = [
     name: "Multiplayer War",
     path:"/multiplayer"
   },
-  {
-    id: 3,
-    icon: <Trophy />,
-    name: "Leaderboard",
-    path:"/leaderboard"
-  },
+  // {
+  //   id: 3,
+  //   icon: <Trophy />,
+  //   name: "Leaderboard",
+  //   path:"/leaderboard"
+  // },
 ];
 
 const Navbar = async () => {
